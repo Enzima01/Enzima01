@@ -19,9 +19,6 @@ Currently working at **ROMI S.A.**, developing and maintaining corporate systems
 ![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
- 
 ## 🌍 Languages
  
 `🇧🇷 Portuguese — Native` · `🇺🇸 English — Advanced`
