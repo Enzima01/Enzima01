@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Enzo%20Henrique%20Favaro&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Back-End%20Developer&descAlignY=80&descSize=18&descColor=a8d8ea" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&text=Enzo%20Henrique%20Favaro&fontSize=38&fontColor=00ff41&fontAlignY=55&desc=Back-End%20Developer&descAlignY=80&descSize=18&descColor=00cc33" width="100%" />
 </div>
 ---
  
