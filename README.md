@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&text=Welcome%20To%20My%20Profile!&fontSize=38&fontColor=00ff41&fontAlignY=55&desc=Enzo%20Henrique%20Favaro%20%20Back-End%20Developer&descAlignY=80&descSize=18&descColor=00cc33" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&text=Welcome%20To%20My%20Profile!&fontSize=38&fontColor=00ff41&fontAlignY=55&desc=Enzo%20Henrique%20Favaro%20|%20Back-End%20Developer&descAlignY=80&descSize=18&descColor=00cc33" width="100%" />
 </div>
 
 `Systems Developer Intern @ ROMI S.A.` · `4th Semester · ADS @ Fatec Americana` · `Back-End Developer`
@@ -8,7 +8,7 @@ Studying a **Technology Degree in Systems Analysis and Development** (4th/6th se
  
 Currently working at **ROMI S.A.**, developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**.
  
-📬 Reach me at: [enzo.h.favaro@gmail.com](mailto:enzo.h.favaro@gmail.com) · [LinkedIn](https://br.linkedin.com/in/enzohenriquefavaro) · [Site](https://enzima01.github.io/site/) 
+📬 Reach me at: [enzo.h.favaro@gmail.com](mailto:enzo.h.favaro@gmail.com) · [LinkedIn](https://br.linkedin.com/in/enzohenriquefavaro) · [WebSite](https://enzima01.github.io/site/) 
  
 ---
  
