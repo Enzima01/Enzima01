@@ -6,7 +6,7 @@
  
 Studying a **Technology Degree in Systems Analysis and Development** (4th/6th semester) at Fatec Americana "Ministro Ralph Biasi", passionate about technology, continuous learning, problem-solving through code, and discipline built through challenge — including completing military service at the *Tiro de Guerra*.
  
-Currently working at **ROMI S.A.** (founded 1930 — Brazilian leader in industrial machinery), developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**, attending multiple business departments including Finance, HR, Legal and Production.
+Currently working at **ROMI S.A.**, developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**.
  
 📬 Reach me at: [enzo.h.favaro@gmail.com](mailto:enzo.h.favaro@gmail.com) · [LinkedIn](https://br.linkedin.com/in/enzohenriquefavaro)
  
