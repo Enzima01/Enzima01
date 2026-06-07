@@ -8,7 +8,7 @@ Studying a **Technology Degree in Systems Analysis and Development** (4th/6th se
  
 Currently working at **ROMI S.A.**, developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**.
  
-📬 Reach me at: [enzo.h.favaro@gmail.com](mailto:enzo.h.favaro@gmail.com) · [LinkedIn](https://br.linkedin.com/in/enzohenriquefavaro)
+📬 Reach me at: [enzo.h.favaro@gmail.com](mailto:enzo.h.favaro@gmail.com) · [LinkedIn](https://br.linkedin.com/in/enzohenriquefavaro) · [Site](https://enzima01.github.io/site/) 
  
 ---
  
