@@ -4,7 +4,7 @@
 
 `Systems Developer Intern @ ROMI S.A.` · `4th Semester · ADS @ Fatec Americana` · `Back-End Developer`
  
-Studying a **Technology Degree in Systems Analysis and Development** (4th/6th semester) at Fatec Americana "Ministro Ralph Biasi", passionate about technology, continuous learning, problem-solving through code, and discipline built through challenge — including completing military service at the *Tiro de Guerra*.
+Studying a **Technology Degree in Systems Analysis and Development** (4th/6th semester) at Fatec Americana "Ministro Ralph Biasi", passionate about technology, continuous learning, problem-solving through code, and discipline built through challenge.
  
 Currently working at **ROMI S.A.**, developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**.
  
