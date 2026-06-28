@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&text=Welcome%20To%20My%20Profile!&fontSize=38&fontColor=00ff41&fontAlignY=55&desc=Enzo%20Henrique%20Favaro%20|%20Back-End%20Developer&descAlignY=80&descSize=18&descColor=00cc33" width="100%" />
 </div>
 
-`Software Developer @ ROMI S.A.` · `4th Semester · ADS @ Fatec Americana` · `Back-End Developer`
+`Software Developer @ ROMI S.A.` · `Back-End Developer`
  
-Studying a **Technology Degree in Systems Analysis and Development** (4th/6th semester) at Fatec Americana "Ministro Ralph Biasi", passionate about technology, continuous learning, problem-solving through code, and discipline built through challenge.
+Studying a **Technology Degree in Systems Analysis and Development**, passionate about technology, continuous learning, problem-solving through code, and discipline built through challenge.
  
 Currently working at **ROMI S.A.**, developing and maintaining corporate systems with **Oracle Database, SQL and PL/SQL**.
  
